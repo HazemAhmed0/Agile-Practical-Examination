@@ -29,4 +29,23 @@ Our service aims to provide users with a platform to find and share activities s
 
 # Near Vision
 * In sprint #1 we should have set in the product identity and have a mock up app with no functionality yet
-* In sprint #2 we aim to have developed a simple interface to add a "spot" and save it to database
+* In sprint #2 we aim to have developed a simple interface to add a "spot" and save it to database and show saved ones
+
+# Story Point Convention
+The story point convention used is a modified series of the powers of 2 
+1, 2, 4, 8, 16, 30, 60, 100
+
+# Product Backlog Items Ordering And RATIONALE
+Items in the backlog were ordered based on their importance to the core functionality and usability of the app. To achieve ordering we asked questions such as what is the importance of this feature to the core functionality? What do we need to get the first prototype? How many other features are dependant on this one? This achieved a simple order as seen in screenshot.
+
+
+
+
+
+
+
+
+
+
+
+
