@@ -18,3 +18,15 @@ Our service aims to provide users with a platform to find and share activities s
 | Maxim Lovrenc       | Data Engineer      | Machine learning for recommendation engine using python, sklearn     |
 | Zayn Rosaura        | Data Engineer      | Maintains database using MySQL, PHP                                  |
 | Petera Wate         | Marketing          | Launching and advertising the application                            |
+
+
+# Stakeholders
+* Intial Investors
+* App Store
+* Play Store
+* Users
+* Small bussiness owners
+
+# Near Vision
+* In sprint #1 we should have set in the product identity and have a mock up app with no functionality yet
+* In sprint #2 we aim to have developed a simple interface to add a "spot" and save it to database
